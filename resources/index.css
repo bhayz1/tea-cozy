@@ -89,3 +89,10 @@ h2, h4 {
 #menu-2 {
   width: 668px;
 }
+
+#locations {
+  height: 500px;
+  width: 1200px;
+  background-image: url(./images/img-locations-background.jpg);
+  padding-top: 70px;
+}
